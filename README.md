@@ -14,9 +14,9 @@ I'm a Software Engineering student interested in backend development, database s
 - HTML / CSS
 - Git / GitHub
 
-### 🚀Featured Projects
+### Featured Projects
 
-#### 🚗Django Car Gallery
+#### Django Car Gallery
 A web-based car gallery and vehicle management system developed with Django.
 
 **Tech:** Python, Django, SQLite/SQL, HTML, CSS
