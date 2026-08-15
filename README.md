@@ -19,15 +19,21 @@ I'm a Software Engineering student interested in backend development, database s
 #### Django Car Gallery
 A web-based car gallery and vehicle management system developed with Django.
 
+[View Repository](https://github.com/ardaygl/django-car-gallery)
+
 **Tech:** Python, Django, SQLite/SQL, HTML, CSS
 
 ####  Spring Boot Car Gallery
 A vehicle management system built with Spring Boot and JPA/Hibernate, connected to MySQL.
 
+[View Repository](https://github.com/ardaygl/spring-boot-car-gallery)
+
 **Tech:** Java, Spring Boot, JPA, Hibernate, MySQL, Thymeleaf
 
 ####  Car Dealership Database
 A relational database project designed for managing vehicles, customers, sales, payments, and maintenance.
+
+[View Repository](https://github.com/ardaygl/car-dealership-database)
 
 **Tech:** SQL Server, T-SQL
 
